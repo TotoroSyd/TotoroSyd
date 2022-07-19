@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/phoebenguyenn](linkedin.com/in/phoebenguyenn)
 
-- ⚡ Fun fact **I have a collection of rubber ducks and movie flyers. I cried when I held a sea turtle in my Sri Lanka trip because it dreamed about it since I was 5.**
+- ⚡ Fun fact **I have a collection of rubber ducks and movie flyers. I cried when I held a sea turtle in my Sri Lanka trip because I dreamed about it since I was 5.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
