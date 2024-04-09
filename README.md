@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phoebe Nguyen</h1>
-<h3 align="center">A passionate software engineer plus HRBP (Human Resources Business Partner) from Sydney</h3>
+<h3 align="center">A passionate software engineer transformed from HRBP (Human Resources Business Partner)</h3>
 
 - 🔭 I’m currently working on **awesome products with my team in Macquarie Group**
 
