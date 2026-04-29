@@ -3,21 +3,19 @@
 
 - 🔭 I’m currently working on **awesome products with my team in Macquarie Group**
 
-- 🌱 I’m currently learning **Angular, Salesforce Platform Developer 1**
+- 🌱 I’m currently learning **AI Engineering, Advanced React, Salesforce Platform Developer 1**
 
-- 👯 I’m looking to collaborate on **HR related product**
+- 👯 I'm reading **An Elegant Puzzle: Systems of Engineering Management** by Will Larson
 
 - 👨‍💻 All of my projects are available at [https://github.com/TotoroSyd](https://github.com/TotoroSyd)
 
 - 📝 I regularly write articles on [https://medium.com/@phoebephuongnguyen](https://medium.com/@phoebephuongnguyen)
 
-- 💬 Ask me about **react, javascript, human resources management**
-
 - 📫 How to reach me **phoebe.ngsyd.dev@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/phoebenguyenn](linkedin.com/in/phoebenguyenn)
 
-- ⚡ Fun fact **I have a collection of rubber ducks and movie flyers. I cried when I held a sea turtle in my Sri Lanka trip because I dreamed about it since I was 5.**
+- ⚡ Fun fact **I have a collection of rubber ducks and movie flyers. I cried when I held a sea turtle in my Sri Lanka trip because I had dreamed about it since I was 5. I love soupy food (ramen, Vietnamese Pho ...) **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
